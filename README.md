@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💻 Hello, Gaurav Singh! 👋
+# 💻 Hello, I'm Gaurav Singh! 👋
 <br>🎓 Pursuing Bachelor's in Computer Applications<br>🔍 Focused on Web Developer , Software Developer & Data Analyst<br>I am a passionate tech enthusiast and  Currently, I’m pursuing my Bachelor’s in Computer Applications (BCA), specializing in Web Developer , Software Developer & Data Analyst..<br><br>🎯 I thrive on solving complex problems using my analytical skills.<br>💡 I’m excited to dive deeper into the fascinating field of  Web Developer & Software Developer.<br>🌟 I’m always looking for new opportunities to learn and collaborate on interesting projects.<br>📈 What I’m Currently Up To<br>👨‍🎓 Pursuing BCA with a focus on  Web Developer , Software Developer<br>📚 Expanding my knowledge in Data Analyst<br>💼 Open to collaborating on WD & SD projects and research work<br>🤝 Building connections in the tech community<br>Feel free to reach out! I’m always up for a good conversation about technology, WD, or anything else! 😄
 
 
